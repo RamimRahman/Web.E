@@ -1,0 +1,85 @@
+body{
+    /* Popin Font */
+    font-family: 'Poppins', sans-serif;
+    }
+nav a{
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 20px;
+    color: rgb(6, 7, 105);
+    justify-content: space-between;
+    
+    }
+    .top-bar{padding-left: 670px;
+       }
+
+ nav{
+        display: flex;
+        justify-content: space-between;
+    }
+.Top-Left{
+    font-size: 24px;
+    color: rgb(10, 10, 68);
+    padding-top: 40px;
+    padding-left: 60px;}
+.Heading{font-size: 30px;
+        padding-left: 60px;
+        padding-top: 60px;}
+.First{display: flex;
+text-decoration: none;}
+.Camera-image{padding-left: 170px;
+            padding-top: 60px;
+    
+}
+.Link{text-decoration: none;
+color: white;
+
+}
+.head-down   {text-align: justify;
+            font-size: 18px;
+            color: black;}
+.arrow{background-color: rgb(156, 29, 61);
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-right: 10px;
+    width: 270px;    
+}
+.Brands{padding-left: 60px;
+}
+.Center{ padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.Middle{color: red;}
+.blog .thumbnail img{
+     width: 300px;
+     height: 256pc;
+}
+.blog-info{margin-top: 10px;}
+.blogs{display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row-gap: 26px ;
+    padding-top: 60px;
+    padding-left: 80px;
+    background-color: rgb(230, 217, 217);
+    border-radius: 15px;
+    padding-top: 40px;
+    font-size: 16px
+}
+
+.rating{padding-left: 20px;}
+.fa-star.filled{color: orange;}
+.fa-star.empty{color: rgb(77, 73, 68);}
+.last{display: flex;
+width: 500px;
+height: 300px;
+padding-left: 280px;
+padding-top: 80px;}
+.last02{padding-left: 80px;
+width: 5000px;
+text-align: justify;}
+
+.last03{text-align: center;
+padding-top: 40px;
+color: black;
+background-color: blue;}
