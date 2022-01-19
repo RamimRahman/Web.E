@@ -74,12 +74,19 @@ color: white;
 width: 500px;
 height: 300px;
 padding-left: 280px;
-padding-top: 80px;}
-.last02{padding-left: 80px;
+padding-top: 80px;
+padding-bottom: 20px;}
+.last02{padding-left: 60px;
 width: 5000px;
 text-align: justify;}
 
 .last03{text-align: center;
-padding-top: 40px;
-color: black;
-background-color: blue;}
+padding-top: 20px;
+color: white;
+background-color: rgb(0, 0, 0);
+margin-bottom: 0%;
+}
+.last05{padding-left: 15px;
+color: white;
+background-color: ;}
+
